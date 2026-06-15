@@ -1,34 +1,37 @@
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\appsettings.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.staticwebassets.endpoints.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.exe
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.deps.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.runtimeconfig.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.dll
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.pdb
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.AssemblyReference.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.AssemblyInfoInputs.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.AssemblyInfo.cs
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.CoreCompileInputs.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.sourcelink.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\scopedcss\bundle\BackEndApp.styles.css
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.Up2Date
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.dll
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\refint\BackEndApp.dll
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.pdb
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.genruntimeconfig.cache
-C:\Users\youse\OneDrive\سطح المكتب\Tadbeer\BackEndApp\obj\Debug\net10.0\ref\BackEndApp.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\appsettings.json
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.staticwebassets.endpoints.json
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.exe
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.deps.json
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.runtimeconfig.json
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\BackEndApp.pdb
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.AssemblyReference.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.AssemblyInfoInputs.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.AssemblyInfo.cs
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.CoreCompileInputs.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.sourcelink.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\scopedcss\bundle\BackEndApp.styles.css
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.csproj.Up2Date
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.dll
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\refint\BackEndApp.dll
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.pdb
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\BackEndApp.genruntimeconfig.cache
+C:\Tadbeer\BackEndApp\obj\Debug\net10.0\ref\BackEndApp.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tadbeer\BackEndApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
